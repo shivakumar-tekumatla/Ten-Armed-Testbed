@@ -1,5 +1,4 @@
-"""write a computer program to generate Figure 2.2 of the text book. 
-submit your code with generated plots from the code in pdf format"""
+""" Solution to generate Figure 2.2 of the Sutton's RL text book """
 
 import numpy as np 
 import matplotlib.pyplot as plt 
